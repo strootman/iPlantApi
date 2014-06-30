@@ -32,6 +32,7 @@ An issue was opened asking when 0.12.0 will be released,
     * [PATCH Method for HTTP](http://tools.ietf.org/html/rfc5789)
     * [LINK & UNLINK Methods _(not RFC yet)_](http://tools.ietf.org/html/draft-snell-link-method-01)
     * [HTTP Method Registry](http://www.iana.org/assignments/http-methods/http-methods.xhtml)
+    * [HTTP Status Code Registry](http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
 * [Compojure-api](https://github.com/metosin/compojure-api) 
 * [Compojure](https://github.com/weavejester/compojure)
 * [Schema](https://github.com/Prismatic/schema) 
