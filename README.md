@@ -30,6 +30,7 @@ An issue was opened asking when 0.12.0 will be released,
     * [HTTP/1.1: Caching](http://tools.ietf.org/html/rfc7234)
     * [HTTP/1.1: Authentication](http://tools.ietf.org/html/rfc7235)
     * [PATCH Method for HTTP](http://tools.ietf.org/html/rfc5789)
+    * [LINK & UNLINK Methods _(not RFC yet)_](http://tools.ietf.org/html/draft-snell-link-method-01)
 * [Compojure-api](https://github.com/metosin/compojure-api) 
 * [Compojure](https://github.com/weavejester/compojure)
 * [Schema](https://github.com/Prismatic/schema) 
